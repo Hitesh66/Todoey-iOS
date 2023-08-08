@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "chameleonframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/starkdmi/ChameleonFramework.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "71b36b0dbbd09b923c9e948b73d2492ea6097a68"
+      }
+    }
+  ],
+  "version" : 2
+}
