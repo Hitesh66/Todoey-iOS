@@ -1,19 +1,8 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Todoey ✓
 
-## Our Goal
+<img width="486" alt="Screenshot 2023-08-12 at 6 23 10 PM" src="https://github.com/Hitesh66/Todoey-iOS/assets/62585123/7c10ba0b-a8c6-4714-95fd-021b156cc71e">
 
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
+<img width="381" alt="Screenshot 2023-08-12 at 6 24 00 PM" src="https://github.com/Hitesh66/Todoey-iOS/assets/62585123/85647a7d-0f75-469f-97c1-c04de60e8ca8">
 
-
-## What you will create
-
-A todolist app to keep track of all your tasks.
-
-
->This is a companion project to The App Brewery's Complete iOS Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+<img width="500" alt="Screenshot 2023-08-12 at 6 24 39 PM" src="https://github.com/Hitesh66/Todoey-iOS/assets/62585123/93684293-aa8e-4338-8c4c-0389ed620a21">
 
